@@ -1,0 +1,7 @@
+sceneSetups:
+- path: "Assets/\u904A\u6232\u5834\u666F.unity"
+  isLoaded: 1
+  isActive: 0
+- path: Assets/ErbGameArt/Procedural fire/Demo scene/Demo fire.unity
+  isLoaded: 1
+  isActive: 1
